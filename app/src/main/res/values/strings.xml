@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volley lab</string>
+    <string name="user_name">User Name</string>
+    <string name="http_url_com">http://url.com</string>
+    <string name="todo">TODO</string>
+
+</resources>
